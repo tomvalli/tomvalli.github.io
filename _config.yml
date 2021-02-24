@@ -21,11 +21,11 @@
 title: Silicon Valli
 email: tom@valli.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Home of the literary masterpieces and groundbreaking musings of Tom Valli.  Opinions are my own
+  and not representative of my employer, friends, family, countrymen, other earthlings, or any intelligent
+  entities in the universe - known or unknown.  © 1,000,000 BC
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://valli.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: valli_tom
 github_username:  tomvalli
 
