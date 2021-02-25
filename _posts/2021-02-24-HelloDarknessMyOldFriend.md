@@ -6,4 +6,4 @@ categories: Casual
 ---
 
 # Goodbye Cruel World
-Truthfully, this is just my initial blog post that I am testing Jekyll with, but while I'm at it: Can we stop using ```Hello World```?  I mean, I get it - it's the standard and it works and really, what would the point even be?  Well, there would be little point to it but after the past 12 months I think ```Hello darkness, my old friend``` or ```Goodbye cruel world``` is just a bit more 'with the times'.  Stay tuned for more poignant social commentary.
+Truthfully, this is just my initial blog post that I am testing Jekyll with, but while I'm at it: Can we stop using ```Hello World```?  I mean, I get it - it's the standard and it works and really, what would the point even be?  Well, none I suppose, but after the past 12 months I think ```Hello darkness, my old friend``` or ```Goodbye cruel world``` is just a bit more 'with the times'.  Stay tuned for more poignant social commentary.

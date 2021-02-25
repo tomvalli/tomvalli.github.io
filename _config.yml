@@ -23,7 +23,7 @@ email: tom@valli.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Home of the literary masterpieces and groundbreaking musings of Tom Valli.  Opinions are my own
   and not representative of my employer, friends, family, countrymen, other earthlings, or any intelligent
-  entities in the universe - known or unknown.  © 1,000,000 BC
+  entities in the universe - known or unknown.  ©1,000,000 BC
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://valli.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: valli_tom
