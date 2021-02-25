@@ -30,7 +30,7 @@ twitter_username: valli_tom
 github_username:  tomvalli
 
 # Build settings
-theme: sidey
+theme: minima
 plugins:
   - jekyll-feed
 
