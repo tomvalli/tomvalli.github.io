@@ -30,7 +30,7 @@ twitter_username: valli_tom
 github_username:  tomvalli
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
